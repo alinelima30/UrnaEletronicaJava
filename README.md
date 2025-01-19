@@ -150,5 +150,12 @@ Votos Nulos: 0
 Vencedor: Alan Turing
 ```
 
-##Autor(a):
-- *Aline Lima* - 
+## Autor(a):
+- *Aline Lima* - https://github.com/alinelima30
+
+
+
+
+## LICENSE
+###Creative Commons Zero v1.0 Universal
+- Creative Commons Legal Code [aqui](
