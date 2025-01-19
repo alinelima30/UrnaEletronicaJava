@@ -85,3 +85,70 @@ mvn -version
 #### 1. Clonar o Repositório:
    
 - Clone o repositório para a sua máquina:
+```bash
+git clone https://github.com/alinelima30/UrnaEletronicaJava.git
+```
+#### 2. Abrir o Projeto no VSCode:
+
+- Abra o VSCode e importe a pasta do projeto.
+  
+#### 3. Configurar a Execução no Console:
+
+- No VSCode, abra o terminal integrado:
+```bash
+Ctrl + `
+```
+
+- Certifique-se de estar no diretório do projeto.
+  
+#### 4. Compilar e Executar:
+- Compile o código com:
+```bash
+javac UrnaEletronicaJava.java
+```
+
+- Execute o programa:
+```bash
+java UrnaEletronicaJava
+```
+
+### Uso do Programa
+1. Execute o programa no terminal.
+
+2. Escolha um número correspondente a um dos candidatos (01 a 05) ou digite algo inválido para testar votos nulos.
+
+3. Após 10 votos, o sistema exibirá o resultado da votação.
+
+### Exemplo de Execução
+```plaintext
+
+Bem-Vindos à Urna Eletrônica!
+
+Candidatos:
+
+01 - Ada Lovelace
+02 - Alan Turing
+03 - Marie Curie
+04 - Albert Einstein
+05 - Ludwig van Beethoven
+
+Digite o número do seu candidato (exemplo: 01, 02, ...):
+01
+Voto registrado para: Ada Lovelace
+
+...
+
+Resultado da Votação:
+
+Ada Lovelace : 3 votos (30.00%)
+Alan Turing : 4 votos (40.00%)
+Marie Curie : 2 votos (20.00%)
+Albert Einstein : 1 votos (10.00%)
+Ludwig Van Beethoven : 0 votos (0.00%)
+Votos Nulos: 0
+
+Vencedor: Alan Turing
+```
+
+##Autor(a):
+- *Aline Lima* - 
