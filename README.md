@@ -149,6 +149,11 @@ Votos Nulos: 0
 
 Vencedor: Alan Turing
 ```
+## Licença
+Este projeto está licenciado sob os termos da `MIT License`.
+Para mais informações, consulte o arquivo `LICENSE`.
 
-## Autor(a):
-- *Aline Lima* - https://github.com/alinelima30
+## Autor
+Desenvolvido por: *Aline Lima*
+- Contato: [alimary1994@gmail.com]
+[https://github.com/alinelima30]
