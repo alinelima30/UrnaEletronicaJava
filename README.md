@@ -151,9 +151,8 @@ Vencedor: Alan Turing
 ```
 ## Licença
 Este projeto está licenciado sob os termos da `MIT License`.
-Para mais informações, consulte o arquivo `LICENSE`: [https://github.com/alinelima30/UrnaEletronicaJava/blob/96d8ea7fac052482d5cfd41157a18770146cf16f/LICENSE]
+Para mais informações, consulte o arquivo `LICENSE`: https://github.com/alinelima30/UrnaEletronicaJava/blob/96d8ea7fac052482d5cfd41157a18770146cf16f/LICENSE
 
 ## Autor
 Desenvolvido por: *Aline Lima*
-- Contato: [alimary1994@gmail.com]
-[https://github.com/alinelima30]
+- Contato: alimary1994@gmail.com
