@@ -155,5 +155,5 @@ Para mais informações, consulte o arquivo: [LICENSE](https://github.com/alinel
 
 ## Autor
 Desenvolvido por: *Aline Lima*
-- Contato:
-  [email](https://gmail.com/alimary1994@gmail.com)
+<p>Contato: <a href="mailto:alimary1994@gmail.com">alimary1994@gmail.com</a></p>
+        
